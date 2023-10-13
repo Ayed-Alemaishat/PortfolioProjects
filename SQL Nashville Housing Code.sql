@@ -4,7 +4,7 @@ From NashvilleHousing
 
 
 --Converting the SaleDate column to remove the empty space
-Alter Table NashvillHousing
+Alter Table NashvilleHousing
 Add SaleDateConverted Date
 
 Update NashvilleHousing
